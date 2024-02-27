@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FriendFinder</string>
+    <string name="wb">Welcome!</string>
+    <string name="login">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="pwd">Password</string>
+    <string name="si">Sign in</string>
+    <string name="su">Sign up</string>
+    <string name="create_account">Create New Account</string>
+    <string name="image">Add image</string>
+    <string name="name">Full name</string>
+    <string name="pwd_confirm">Confirm password</string>
+    <string name="slct_user">Select user from wanted region</string>
+    <string name="message">Enter a Message</string>
+    <string name="online">Online</string>
+</resources>
